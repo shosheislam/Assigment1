@@ -1,0 +1,174 @@
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+    margin: 0px;
+  
+}
+h1{
+    font-size:50px ;
+}
+p{
+    color: dimgray;
+}
+.color-highlight{
+    color:tomato;
+}
+.top-banner{
+    background-color:white;
+
+}
+.half-width p{
+    padding-bottom: 25px;
+ }
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left:2%;
+    font-weight: 700;
+    
+}
+.half-width img{
+    width: 100%;
+}
+.half-width p{
+    padding-bottom: 25px;
+ }
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon,tomato);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+section{
+    padding-bottom:150px ;
+    height: 500px;
+}
+.About-area{
+    background-color: white;
+}
+h2{
+    font-size: 40px ;
+    font-weight: 700;
+     }
+.project-area{
+    background-color: lightgrey;
+    padding-left: 50px;
+}
+    
+.project-area h2{
+    text-align: center;
+    padding:50px 10px ;
+    
+}
+.box{
+    box-shadow: 10px  white;
+    border-radius: 10px;
+    width: 20%;
+    height:70% ;
+    padding: 10px 10px;
+    background-color:white;
+    margin-left: 110px;
+    float: left;
+   
+    
+}
+.box img{
+    width: 100%;
+}
+.box h3{
+    font-size: 20px;
+    font-weight: 700;
+}
+.team-area{
+    
+   
+}
+    
+   
+.team-area h2{
+    
+    text-align: center;
+    padding:50px 10px ;
+    
+    
+
+}
+.team-box{
+    box-shadow: 10px white;
+    border-radius: 10px;
+    width: 20%;
+    height:85% ;
+    padding: 10px 10px;
+    background-color:lightgray;
+    margin-left: 110px;
+    float: left;
+    margin-bottom:50px ;
+   
+}
+.team-box p{
+    color: black;
+}
+.team-box img{
+    width: 100%;
+}
+.team-box h3{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.inquiry-area{
+   background-image: url(../images/box.png);
+   width: 50%;
+   margin-left:350px;
+   margin-top:200px ;
+   background-size:100%;
+   background-repeat: no-repeat;
+   }
+   .inquiry-box{
+       float: left;
+   }
+   .inquiry-box h1{
+       font-size: 35px;
+       color: white;
+       padding-top: 20px;
+       margin-left:60px;
+  }
+  .inquiry-box a{
+      margin-left: 300px;
+      position: absolute;
+      margin-top:60px ;
+     
+  }
+  footer{
+      background-color: tomato;
+  }
+  footer p{
+      
+      text-align: center;
+      
+     
+
+  }
+  #footer-sec{
+    color: gray;
+    text-align: center;
+}
+
+.footer-h2{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.footer-h3{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(78, 15, 78);
+    
+}
+
+.footer-img{
+    height: 40px;
+    width: 40px;
+    padding: 5px;
+}
